@@ -1,0 +1,7 @@
+**/azure-env
+**/.vscode
+**/.job
+/python/kafka/python
+**/__pycache__
+**/usqlCodeBehindGenerated
+**/npm-debug.log
